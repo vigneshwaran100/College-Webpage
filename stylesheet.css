@@ -1,0 +1,80 @@
+#dd{
+    text-align: center;
+    color: white;
+    line-height: 8px;
+
+}
+.b{
+    border: 3px 3095E3 solid;
+    background-color: #3095E3;
+    margin: 0px 10px 10px 10px;
+    padding: 10px;
+    
+}
+h3{
+    text-align: center;
+    font-size: 10px;
+    line-height: 10px;
+}
+#logo{ 
+    position: relative;
+        top: -130px;
+        left: 260px;
+
+}
+   
+#NBA{ 
+    position: relative;
+    top: -230px;
+    right: -900px;
+}
+#A{ 
+    position: relative;
+    top: -335px;
+    right: -1020px;
+}
+.m{
+    background-color: lightgray;
+    border-bottom: solid darkgray;
+}
+.header-menu{
+    position: relative;
+    box-shadow: 0px 3px 5px 0px #0f0e0e36;
+}
+.main-menu{
+    list-style: none;
+    float: right;
+    margin: -300px 200px 0px 200px; 
+    padding: 0;
+
+}
+.main-menu a{
+    font-weight: 500;
+    color: darkblue;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 20px;
+    
+}
+.main-menu li{
+    float: left;
+    padding: 0px 10px ;
+    margin: 0;
+    
+}
+.t{
+    text-align:center ;
+    color: black;
+    margin: -300px 100px 0px 100px;
+}
+.pics{
+ text-align: left;
+ 
+}
+#p1{
+    margin: -100px 0px 0px 0px;
+}
+.cl{
+    text-align: center;}
+
+  
